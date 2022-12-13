@@ -19,10 +19,3 @@
 
 * NOTE: All changes in module 2 can be done without creating new functional classes (Exception class is not a functional class of course). There are simple ways of completing tasks. Find them.
 ```
-
-## About the Review Process
-
-* **Merge Request (MR)** - The whole review process happens on **one single MR submitted to the Availia Mentee bot**. For that, the MR must remain _Open_ until the mentee receives a notification “Review completed”.
-* **Multiple rounds** - Usually it takes several rounds for mentor to review mentee’s task - meaning that the mentees are expected to work on the same MR until the mentor approves that. Within this the deadline counter stops. 
-* **Lead Mentor’s review** - After the mentor approves the MR, a new round "Lead mentor’s review" may happen. During this round, Lead mentor reviews quality of the task. It can result in additional comments on the MR that the mentee has to address. After this stage, the practical task is considered completed successfully.
-* **Task approval** - Grade for task will be assigned automatically on Learn after mentor’s (Lead mentor’s) approval within **48 hours**, and you will receive a notification from Availia Mentee Bot “Review completed”.
